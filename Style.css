@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+*{
+    margin: 0%;
+    background-color: #12384b;
+}
+.nav1{
+    background-color: black;
+    padding: 20px;
+    color: white;
+    padding: 15px;
+    
+}
+#h2a{
+    background-color:#1f995e;
+    padding: 15px;
+    border-radius: 10px;
+    font-family: "Open Sans", sans-serif;
+    display: inline-block;
+    margin-left: 50px;
+    
+}
+#h2b{
+    background-color:#1f995e;
+    padding: 15px;
+    border-radius: 10px;
+    font-family: "Open Sans", sans-serif;
+    display: inline-block;
+    margin-left: 150px;
+    margin-right: 100px;
+    
+}
+#h2c{
+    background-color:#1f995e;
+    padding: 15px;
+    border-radius: 10px;
+    font-family: "Open Sans", sans-serif;
+    display: inline-block; 
+    margin-left: 100px;
+    margin-right: 60px;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+#h2d{
+    background-color:#1f995e;
+    padding: 15px;
+    border-radius: 10px;
+    font-family: "Open Sans", sans-serif;
+    display: inline-block;
+    margin-left: 100px;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+.container {
+    display: flex;
+    align-items: center; /* Alinha verticalmente */
+    gap: 20px; /* Espaço entre a imagem e o texto */
+  }
+  .container img {
+    width: 300px; /* Ajuste o tamanho da imagem */
+    height: auto;
+  }
+
+
+
