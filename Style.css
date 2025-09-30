@@ -51,13 +51,74 @@
     padding-left: 50px;
 }
 .container {
-    display: flex;
-    align-items: center; /* Alinha verticalmente */
-    gap: 20px; /* Espaço entre a imagem e o texto */
+    margin-top: 30px;
+
   }
-  .container img {
-    width: 300px; /* Ajuste o tamanho da imagem */
-    height: auto;
+  .sobre{
+    display: inline-block;
+    margin-left: 200px;
+    color: white;
+    font-family: "Open Sans", sans-serif;
+  }
+  #EU{
+    border-radius: 80%;
+    margin-left: 200px;
+    margin-top: 50px;
+  }
+  #texto{
+    text-align: center;
+    width: 300px;
+    
+  }
+  #Buttom1{
+    text-decoration: none;
+    background-color: #1f995e;
+    color: white;
+  }
+  #título1{
+    text-align: center;
+    margin-top: 200px;
+    color: white;
+    font-family: "Open Sans", sans-serif;
+  }
+  .Habilidades{
+    text-align: center;
+    display: inline-block;
+    margin: 30px ;
+    padding-left: 65px;
+    padding-right: 30px;
+  }
+  #Logo{
+    background-color: rgba(255,255,255,0.4);
+    border-radius: 10px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;   
+    width: 170px;
+    height: 170px;
+  }
+  #tit_projet{
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+    color: white;
+    margin-top: 200px;
+  }
+  .Projeto{
+    display: inline-block;
+    margin-top: 100px;
+    padding-left: 250px; 
+  }
+  #Panini{
+    border-radius: 10px;
+  }
+  #Epic{
+    border-radius: 10px;
+  }
+  #Certificado{
+    margin-top: 100px;
+    margin-left: 350px;
   }
 
 
