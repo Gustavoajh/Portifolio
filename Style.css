@@ -1,125 +1,195 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
-*{
-    margin: 0%;
-    background-color: #12384b;
+
+* {
+  margin: 0%;
+  background-color: #12384b;
 }
-.nav1{
-    background-color: black;
-    padding: 20px;
-    color: white;
-    padding: 15px;
-    
+
+.nav1 {
+  background-color: black;
+  padding: 20px;
+  color: white;
+  padding: 15px;
+
 }
-#h2a{
-    background-color:#1f995e;
-    padding: 15px;
-    border-radius: 10px;
-    font-family: "Open Sans", sans-serif;
-    display: inline-block;
-    margin-left: 50px;
-    
+
+#h2a {
+  background-color: #1f995e;
+  padding: 15px;
+  border-radius: 10px;
+  font-family: "Open Sans", sans-serif;
+  display: inline-block;
+  margin-left: 50px;
+
 }
-#h2b{
-    background-color:#1f995e;
-    padding: 15px;
-    border-radius: 10px;
-    font-family: "Open Sans", sans-serif;
-    display: inline-block;
-    margin-left: 150px;
-    margin-right: 100px;
-    
+
+#h2b {
+  background-color: #1f995e;
+  padding: 15px;
+  border-radius: 10px;
+  font-family: "Open Sans", sans-serif;
+  display: inline-block;
+  margin-left: 150px;
+  margin-right: 100px;
+
 }
-#h2c{
-    background-color:#1f995e;
-    padding: 15px;
-    border-radius: 10px;
-    font-family: "Open Sans", sans-serif;
-    display: inline-block; 
-    margin-left: 100px;
-    margin-right: 60px;
-    padding-right: 50px;
-    padding-left: 50px;
+
+#h2c {
+  background-color: #1f995e;
+  padding: 15px;
+  border-radius: 10px;
+  font-family: "Open Sans", sans-serif;
+  display: inline-block;
+  margin-left: 100px;
+  margin-right: 60px;
+  padding-right: 50px;
+  padding-left: 50px;
 }
-#h2d{
-    background-color:#1f995e;
-    padding: 15px;
-    border-radius: 10px;
-    font-family: "Open Sans", sans-serif;
-    display: inline-block;
-    margin-left: 100px;
-    padding-right: 50px;
-    padding-left: 50px;
+
+#h2d {
+  background-color: #1f995e;
+  padding: 15px;
+  border-radius: 10px;
+  font-family: "Open Sans", sans-serif;
+  display: inline-block;
+  margin-left: 100px;
+  padding-right: 50px;
+  padding-left: 50px;
 }
+
 .container {
-    margin-top: 30px;
+  margin-top: 30px;
 
-  }
-  .sobre{
-    display: inline-block;
-    margin-left: 200px;
-    color: white;
-    font-family: "Open Sans", sans-serif;
-  }
-  #EU{
-    border-radius: 80%;
-    margin-left: 200px;
-    margin-top: 50px;
-  }
-  #texto{
-    text-align: center;
-    width: 300px;
-    
-  }
-  #Buttom1{
-    text-decoration: none;
-    background-color: #1f995e;
-    color: white;
-  }
-  #título1{
-    text-align: center;
-    margin-top: 200px;
-    color: white;
-    font-family: "Open Sans", sans-serif;
-  }
-  .Habilidades{
-    text-align: center;
-    display: inline-block;
-    margin: 30px ;
-    padding-left: 65px;
-    padding-right: 30px;
-  }
-  #Logo{
-    background-color: rgba(255,255,255,0.4);
-    border-radius: 10px;
-    padding-top: 20px;
-    padding-left: 20px;
-    padding-bottom: 20px;
-    padding-right: 20px;
-    box-sizing: border-box;   
-    width: 170px;
-    height: 170px;
-  }
-  #tit_projet{
-    text-align: center;
-    font-family: "Open Sans", sans-serif;
-    color: white;
-    margin-top: 200px;
-  }
-  .Projeto{
-    display: inline-block;
-    margin-top: 100px;
-    padding-left: 250px; 
-  }
-  #Panini{
-    border-radius: 10px;
-  }
-  #Epic{
-    border-radius: 10px;
-  }
-  #Certificado{
-    margin-top: 100px;
-    margin-left: 350px;
-  }
+}
 
+.sobre {
+  display: inline-block;
+  margin-left: 200px;
+  color: white;
+  font-family: "Open Sans", sans-serif;
+}
 
+#EU {
+  border-radius: 80%;
+  margin-left: 200px;
+  margin-top: 50px;
+}
 
+#texto {
+  text-align: center;
+  width: 300px;
+
+}
+
+#Buttom1 {
+  text-decoration: none;
+  background-color: #1f995e;
+  color: white;
+}
+
+#título1 {
+  text-align: center;
+  margin-top: 200px;
+  color: white;
+  font-family: "Open Sans", sans-serif;
+}
+
+.Habilidades {
+  text-align: center;
+  display: inline-block;
+  margin: 30px;
+  padding-left: 65px;
+  padding-right: 30px;
+}
+
+#Logo {
+  background-color: rgba(255, 255, 255, 0.4);
+  border-radius: 10px;
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  padding-right: 20px;
+  box-sizing: border-box;
+  width: 170px;
+  height: 170px;
+}
+
+#tit_projet {
+  text-align: center;
+  font-family: "Open Sans", sans-serif;
+  color: white;
+  margin-top: 200px;
+}
+
+.Projeto {
+  display: inline-block;
+  margin-top: 100px;
+  padding-left: 250px;
+}
+
+#Panini {
+  border-radius: 10px;
+}
+
+#Epic {
+  border-radius: 10px;
+}
+
+#Certificado {
+  margin-top: 100px;
+  margin-left: 370px;
+}
+
+#oportunidades {
+  margin-left: 140px;
+  margin-right: 100px;
+}
+
+#Mapa {
+  margin-left: 190px;
+  margin-right: 330px;
+}
+
+.título_foot {
+  margin-top: 100px;
+  display: inline-block;
+  color: #ba58ff;
+}
+
+#título3 {
+  text-align: center;
+  margin-top: 200px;
+  color: white;
+  font-family: "Open Sans", sans-serif;
+}
+
+.oport {
+  color: white;
+  margin-top: 30px;
+  margin-left: 90px;
+  font-family: "Open Sans", sans-serif;
+
+}
+
+.oport {
+  display: inline-block;
+  text-align: center;
+  font-family: "Open Sans", sans-serif;
+  box-sizing: border-box;
+  width: 300px;
+  margin-bottom: 290px;
+}
+
+#Mapa_site {
+  margin-bottom: 50px;
+  margin-left: 165px;
+}
+
+#Mapa_site2 {
+  margin-bottom: 50px;
+  margin-left: 170px;
+}
+
+#Mapa_site3 {
+  margin-left: 170px;
+}
